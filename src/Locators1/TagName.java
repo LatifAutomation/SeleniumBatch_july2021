@@ -1,4 +1,4 @@
-package Locators;
+package Locators1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
